@@ -1,0 +1,2 @@
+/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'main':
+/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:89: warning: passing argument 1 of 'printf' from incompatible pointer type

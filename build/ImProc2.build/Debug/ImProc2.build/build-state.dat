@@ -1,0 +1,769 @@
+TImProc2
+v7
+r0
+t351030242.898971
+cCheck dependencies
+cCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ED8B76400000000000000EE
+t1322825572
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenCV.framework/OpenCV
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcv.dylib
+c000000004B7D8919000000000036E558
+t1266518297
+s3597656
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcvaux.dylib
+c000000004B7D89190000000000159E38
+t1266518297
+s1416760
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcxcore.dylib
+c000000004B7D8918000000000034AE54
+t1266518296
+s3452500
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libhighgui.dylib
+c000000004B7D891900000000000F42E8
+t1266518297
+s1000168
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+t1329337442
+s51984
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/ImProc2.LinkFileList
+c000000004F3C093A0000000000000074
+t1329334586
+s116
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o
+t1329335854
+s68700
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/ImProc2.LinkFileList
+c000000004F3C09530000000000000076
+t1329334611
+s118
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+t1329337441
+s90552
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/cv.h
+c000000004B7D93D700000000000118DB
+t1266521047
+s71899
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+c000000004F3C14600000000000001ABB
+t1329337440
+s6843
+i"cv.h"
+i"highgui.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<assert.h>
+i<math.h>
+i<float.h>
+i<limits.h>
+i<time.h>
+i<ctype.h>
+i<highgui.h>
+i<cv.h>
+i<time.h>
+i<unistd.h>
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2
+t1268543422
+s44376
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/ImProc2.LinkFileList
+c000000004B7D905D0000000000000074
+t1266520157
+s116
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o
+t1268543422
+s68848
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/ImProc2.LinkFileList
+c000000004B7D8EF30000000000000076
+t1266519795
+s118
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+t1266519858
+s85272
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/cv.h
+c000000004B7D93D700000000000118DB
+t1266521047
+s71899
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcv.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcvaux.2.0.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcxcore.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libhighgui.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c
+c000000004F3BFEBD0000000000000916
+t1329331901
+s2326
+i<stdio.h>
+i<highgui.h>
+i<cv.h>
+i<time.h>
+
+N/opt/local/lib/libopencv_calib3d.2.3.1.dylib
+c000000004F2FFBD200000000000B5018
+t1328544722
+s741400
+
+N/opt/local/lib/libopencv_contrib.2.3.1.dylib
+c000000004F2FFC8600000000000669A0
+t1328544902
+s420256
+
+N/opt/local/lib/libopencv_core.2.3.1.dylib
+c000000004F2FF7D40000000000228C00
+t1328543700
+s2264064
+
+N/opt/local/lib/libopencv_features2d.2.3.1.dylib
+c000000004F2FF8B9000000000010B090
+t1328543929
+s1093776
+
+N/opt/local/lib/libopencv_flann.2.3.1.dylib
+c000000004F2FF7FC000000000008D2C0
+t1328543740
+s578240
+
+N/opt/local/lib/libopencv_gpu.2.3.1.dylib
+c000000004F2FFCE80000000000021840
+t1328545000
+s137280
+
+N/opt/local/lib/libopencv_highgui.2.3.1.dylib
+c000000004F2FF8690000000000053E78
+t1328543849
+s343672
+
+N/opt/local/lib/libopencv_imgproc.2.3.1.dylib
+c000000004F2FF8500000000000202E40
+t1328543824
+s2108992
+
+N/opt/local/lib/libopencv_legacy.2.3.1.dylib
+c000000004F2FFC4F00000000000C00C0
+t1328544847
+s786624
+
+N/opt/local/lib/libopencv_ml.2.3.1.dylib
+c000000004F2FF8400000000000079E10
+t1328543808
+s499216
+
+N/opt/local/lib/libopencv_objdetect.2.3.1.dylib
+c000000004F2FFC5C0000000000065AF8
+t1328544860
+s416504
+
+N/opt/local/lib/libopencv_ts.2.3.1.dylib
+c000000004F2FF8270000000000093D28
+t1328543783
+s605480
+
+N/opt/local/lib/libopencv_video.2.3.1.dylib
+c000000004F2FF8630000000000044488
+t1328543843
+s279688
+
+N/opt/local/lib/libopenjpeg.1.dylib
+c000000004F2FEC6F000000000001EA58
+t1328540783
+s125528
+
+N/usr/local/include/opencv/cv.h
+c000000004B7D845800000000000118DB
+t1266517080
+s71899
+
+N/usr/local/include/opencv/cv.hpp
+c000000004B7D8458000000000000B498
+t1266517080
+s46232
+
+N/usr/local/include/opencv/cvcompat.h
+c000000004B7D84580000000000009EE9
+t1266517080
+s40681
+
+N/usr/local/include/opencv/cvtypes.h
+c000000004B7D84580000000000002DC4
+t1266517080
+s11716
+
+N/usr/local/include/opencv/cxcore.h
+c000000004B7D84580000000000012EB3
+t1266517080
+s77491
+
+N/usr/local/include/opencv/highgui.h
+c000000004B7D84580000000000004749
+t1266517080
+s18249
+
+N/usr/local/lib/libcv.dylib
+c000000004B7D8919000000000036E558
+t1266518297
+s3597656
+
+N/usr/local/lib/libcvaux.dylib
+c000000004B7D89190000000000159E38
+t1266518297
+s1416760
+
+N/usr/local/lib/libcxcore.dylib
+c000000004B7D8918000000000034AE54
+t1266518296
+s3452500
+
+N/usr/local/lib/libhighgui.dylib
+c000000004B7D891900000000000F42E8
+t1266518297
+s1000168
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351030242#351030242#0(0"0(0#1#0"8604072384#0"0#
+
+CCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal i386 c com.apple.compilers.gcc.4_2
+s351028654.435064
+e351028654.765970
+r1
+xCompileC
+xbuild/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o
+x/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'main':
+o/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:35: warning: unused variable 'avgFPS'
+o/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:34: warning: unused variable 'vecFPS'
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/BarCode/main.c351028654#351028654#0(265"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:35: warning: unused variable 'avgFPS'/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:34: warning: unused variable 'vecFPS'2(22@24"Unused variable 'avgFPS'351028654#77#94#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351028602#35#0#35#0#19"unused variable '*'0(22@24"Unused variable 'vecFPS'351028654#171#94#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351028602#34#0#34#0#19"unused variable '*'0(0#0#55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c8607734208#1424"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/DerivedSources/i386" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" normal i386 c com.apple.compilers.gcc.4_2
+s290236222.161399
+e290236222.504872
+r1
+xCompileC
+xbuild/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o
+x/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/ImProc2/main.c290236222#290236222#0(171"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:38: warning: unused variable 'vecFPS'1(22@24"Unused variable 'vecFPS'290236222#77#94#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c290236222#38#0#38#0#19"unused variable '*'0(0#0#55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c4300885448#1424"    cd "/Users/JLH/Documents/Projects/C Projects/ImProc2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources/i386" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" -o "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s351030242.864748
+e351030242.865990
+r1
+xCompileC
+xbuild/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+x/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/BarCode/main.c351030242#351030242#0(0"0(0#0#55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c8610456128#1430"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/DerivedSources/x86_64" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s288212658.009924
+e288212658.375242
+r1
+xCompileC
+xbuild/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+x/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212658#288212658#0(262"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:30: warning: unused variable 'grey'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:29: warning: unused variable 'edges'2(22@22"Unused variable 'grey'288212658#77#92#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212657#30#0#30#0#19"unused variable '*'0(22@23"Unused variable 'edges'288212658#169#93#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212657#29#0#29#0#19"unused variable '*'0(0#0#55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c4300885448#1430"    cd "/Users/JLH/Documents/Projects/C Projects/ImProc2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources/x86_64" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" -o "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal i386
+s351028720.080655
+e351028720.111930
+r0
+xLd
+x/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+xnormal
+xi386
+old: warning: in /opt/local/lib/libopencv_core.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_highgui.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_imgproc.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_legacy.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_video.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopenjpeg.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_calib3d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_contrib.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_features2d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_flann.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_gpu.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_ml.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_objdetect.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /opt/local/lib/libopencv_ts.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)
+oUndefined symbols:
+o  "_cvMinAreaRect2", referenced from:
+o      _cvMinAreaRect in main.o
+o  "_cvReleaseMat", referenced from:
+o      _cvReleaseMatND in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvKMeans in main.o
+o  "_cvPow", referenced from:
+o      _cvbSqrt in main.o
+o      _cvbInvSqrt in main.o
+o      _cvbReciprocal in main.o
+o  "_cvRodrigues2", referenced from:
+o      _cvRodrigues in main.o
+o      _cvRodrigues in main.o
+o  "_cvGrabFrame", referenced from:
+o      _main in main.o
+o  "_cvInitSubdivDelaunay2D", referenced from:
+o      _cvCreateSubdivDelaunay2D in main.o
+o  "_cvPolyLine", referenced from:
+o      _cvPolyLineAA in main.o
+o  "_cvCalibrateCamera2", referenced from:
+o      _cvCalibrateCamera in main.o
+o      _cvCalibrateCamera_64d in main.o
+o  "_cvSet", referenced from:
+o      _cvFillImage in main.o
+o  "_cvHoughLines2", referenced from:
+o      _cvHoughLines in main.o
+o      _cvHoughLinesP in main.o
+o      _cvHoughLinesSDiv in main.o
+o  "_cvCreateCameraCapture", referenced from:
+o      _main in main.o
+o  "_cvAddS", referenced from:
+o      _cvSubS in main.o
+o  "_cvFindFundamentalMat", referenced from:
+o      _cvFindFundamentalMatrix in main.o
+o  "_cvAvg", referenced from:
+o      _cvMean in main.o
+o  "_cvReleaseGraphScanner", referenced from:
+o      _cvEndScanGraph in main.o
+o  "_cvSeqSlice", referenced from:
+o      _cvCloneSeq in main.o
+o  "_cvEllipse", referenced from:
+o      _cvEllipseBox in main.o
+o      _cvEllipseAA in main.o
+o  "_cvError", referenced from:
+o      _cvRandSetRange in main.o
+o      _cvRandSetRange in main.o
+o      _cvRandInit in main.o
+o      _cvRandInit in main.o
+o      _cvRand in main.o
+o      _cvStartScanGraph in main.o
+o      _cvEndScanGraph in main.o
+o  "_cvCanny", referenced from:
+o      _main in main.o
+o  "_cvLine", referenced from:
+o      _cvLineAA in main.o
+o  "_cvRead", referenced from:
+o      _cvReadByName in main.o
+o  "_cvAvgSdv", referenced from:
+o      _cvMean_StdDev in main.o
+o  "_cvColorToScalar", referenced from:
+o      _cvFillImage in main.o
+o      _cvLineAA in main.o
+o      _cvCircleAA in main.o
+o      _cvEllipseAA in main.o
+o      _cvPolyLineAA in main.o
+o  "_cvCvtColor", referenced from:
+o      _main in main.o
+o  "_cvBoxPoints", referenced from:
+o      _cvMinAreaRect in main.o
+o  "_cvNamedWindow", referenced from:
+o      _main in main.o
+o  "_cvInvert", referenced from:
+o      _cvPseudoInverse in main.o
+o  "_cvReshape", referenced from:
+o      _cvmPerspectiveProject in main.o
+o      _cvmPerspectiveProject in main.o
+o  "_cvCreateImage", referenced from:
+o      _main in main.o
+o      _main in main.o
+o  "_cvLog", referenced from:
+o      _cvbFastLog in main.o
+o  "_cvShowImage", referenced from:
+o      _main in main.o
+o  "_cvGetElemType", referenced from:
+o      _cvFillImage in main.o
+o      _cvLineAA in main.o
+o      _cvCircleAA in main.o
+o      _cvEllipseAA in main.o
+o      _cvPolyLineAA in main.o
+o  "_cvFree_", referenced from:
+o      _cvDecRefData in main.o
+o      _cvDecRefData in main.o
+o      _cvStartScanGraph in main.o
+o  "_cvSum", referenced from:
+o      _cvSumPixels in main.o
+o  "_cvProjectPoints2", referenced from:
+o      _cvProjectPoints in main.o
+o      _cvProjectPointsSimple in main.o
+o  "_cvCreateMat", referenced from:
+o      _cvFindFundamentalMatrix in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvKMeans in main.o
+o  "_cvAlloc", referenced from:
+o      _cvEndScanGraph in main.o
+o  "_cvCreateGraphScanner", referenced from:
+o      _cvStartScanGraph in main.o
+o  "_cvFindChessboardCorners", referenced from:
+o      _cvFindChessBoardCornerGuesses in main.o
+o  "_cvBoundingRect", referenced from:
+o      _cvContourBoundingRect in main.o
+o  "_cvCartToPolar", referenced from:
+o      _cvbCartToPolar in main.o
+o      _cvbFastArctan in main.o
+o  "_cvCalcEMD2", referenced from:
+o      _cvCalcEMD in main.o
+o  "_cvCalcArrHist", referenced from:
+o      _cvCalcHist in main.o
+o  "_cvFindExtrinsicCameraParams2", referenced from:
+o      _cvFindExtrinsicCameraParams in main.o
+o      _cvFindExtrinsicCameraParams_64d in main.o
+o  "_cvKMeans2", referenced from:
+o      _cvKMeans in main.o
+o  "_cvGetRawData", referenced from:
+o      _cvUnDistortInit in main.o
+o      _cvUnDistort in main.o
+o  "_cvGetFileNodeByName", referenced from:
+o      _cvReadIntByName in main.o
+o      _cvReadRealByName in main.o
+o      _cvReadStringByName in main.o
+o      _cvReadByName in main.o
+o  "_cvPerspectiveTransform", referenced from:
+o      _cvmPerspectiveProject in main.o
+o  "_cvSetAdd", referenced from:
+o      _cvSetNew in main.o
+o  "_cvRetrieveFrame", referenced from:
+o      _main in main.o
+o      _main in main.o
+o  "_cvFitLine", referenced from:
+o      _cvFitLine3D in main.o
+o      _cvFitLine2D in main.o
+o  "_cvUndistort2", referenced from:
+o      _cvUnDistortOnce in main.o
+o  "_cvGetSeqElem", referenced from:
+o      _cvGetSetElem in main.o
+o  "_cvCreateSubdiv2D", referenced from:
+o      _cvCreateSubdivDelaunay2D in main.o
+o  "_cvGetSize", referenced from:
+o      _main in main.o
+o      _main in main.o
+o  "_cvConvexHull2", referenced from:
+o      _cvConvexHull in main.o
+o  "_cvExp", referenced from:
+o      _cvbFastExp in main.o
+o  "_cvRandArr", referenced from:
+o      _cvRand in main.o
+o  "_cvInitFont", referenced from:
+o      _cvFont in main.o
+o  "_cvTransform", referenced from:
+o      _cvProject3D in main.o
+o  "_cvFitEllipse2", referenced from:
+o      _cvFitEllipse in main.o
+o  "_cvGetCols", referenced from:
+o      _cvGetCol in main.o
+o  "_cvGetRows", referenced from:
+o      _cvGetRow in main.o
+o  "_cvCircle", referenced from:
+o      _cvCircleAA in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@73"Link /Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2351028720#351028720#0(7678"ld: warning: in /opt/local/lib/libopencv_core.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_highgui.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_imgproc.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_legacy.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_video.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopenjpeg.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_calib3d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_contrib.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_features2d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_flann.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_gpu.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_ml.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_objdetect.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /opt/local/lib/libopencv_ts.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)Undefined symbols:  "_cvMinAreaRect2", referenced from:      _cvMinAreaRect in main.o  "_cvReleaseMat", referenced from:      _cvReleaseMatND in main.o      _cvFindFundamentalMatrix in main.o      _cvFindFundamentalMatrix in main.o      _cvKMeans in main.o  "_cvPow", referenced from:      _cvbSqrt in main.o      _cvbInvSqrt in main.o      _cvbReciprocal in main.o  "_cvRodrigues2", referenced from:      _cvRodrigues in main.o      _cvRodrigues in main.o  "_cvGrabFrame", referenced from:      _main in main.o  "_cvInitSubdivDelaunay2D", referenced from:      _cvCreateSubdivDelaunay2D in main.o  "_cvPolyLine", referenced from:      _cvPolyLineAA in main.o  "_cvCalibrateCamera2", referenced from:      _cvCalibrateCamera in main.o      _cvCalibrateCamera_64d in main.o  "_cvSet", referenced from:      _cvFillImage in main.o  "_cvHoughLines2", referenced from:      _cvHoughLines in main.o      _cvHoughLinesP in main.o      _cvHoughLinesSDiv in main.o  "_cvCreateCameraCapture", referenced from:      _main in main.o  "_cvAddS", referenced from:      _cvSubS in main.o  "_cvFindFundamentalMat", referenced from:      _cvFindFundamentalMatrix in main.o  "_cvAvg", referenced from:      _cvMean in main.o  "_cvReleaseGraphScanner", referenced from:      _cvEndScanGraph in main.o  "_cvSeqSlice", referenced from:      _cvCloneSeq in main.o  "_cvEllipse", referenced from:      _cvEllipseBox in main.o      _cvEllipseAA in main.o  "_cvError", referenced from:      _cvRandSetRange in main.o      _cvRandSetRange in main.o      _cvRandInit in main.o      _cvRandInit in main.o      _cvRand in main.o      _cvStartScanGraph in main.o      _cvEndScanGraph in main.o  "_cvCanny", referenced from:      _main in main.o  "_cvLine", referenced from:      _cvLineAA in main.o  "_cvRead", referenced from:      _cvReadByName in main.o  "_cvAvgSdv", referenced from:      _cvMean_StdDev in main.o  "_cvColorToScalar", referenced from:      _cvFillImage in main.o      _cvLineAA in main.o      _cvCircleAA in main.o      _cvEllipseAA in main.o      _cvPolyLineAA in main.o  "_cvCvtColor", referenced from:      _main in main.o  "_cvBoxPoints", referenced from:      _cvMinAreaRect in main.o  "_cvNamedWindow", referenced from:      _main in main.o  "_cvInvert", referenced from:      _cvPseudoInverse in main.o  "_cvReshape", referenced from:      _cvmPerspectiveProject in main.o      _cvmPerspectiveProject in main.o  "_cvCreateImage", referenced from:      _main in main.o      _main in main.o  "_cvLog", referenced from:      _cvbFastLog in main.o  "_cvShowImage", referenced from:      _main in main.o  "_cvGetElemType", referenced from:      _cvFillImage in main.o      _cvLineAA in main.o      _cvCircleAA in main.o      _cvEllipseAA in main.o      _cvPolyLineAA in main.o  "_cvFree_", referenced from:      _cvDecRefData in main.o      _cvDecRefData in main.o      _cvStartScanGraph in main.o  "_cvSum", referenced from:      _cvSumPixels in main.o  "_cvProjectPoints2", referenced from:      _cvProjectPoints in main.o      _cvProjectPointsSimple in main.o  "_cvCreateMat", referenced from:      _cvFindFundamentalMatrix in main.o      _cvFindFundamentalMatrix in main.o      _cvKMeans in main.o  "_cvAlloc", referenced from:      _cvEndScanGraph in main.o  "_cvCreateGraphScanner", referenced from:      _cvStartScanGraph in main.o  "_cvFindChessboardCorners", referenced from:      _cvFindChessBoardCornerGuesses in main.o  "_cvBoundingRect", referenced from:      _cvContourBoundingRect in main.o  "_cvCartToPolar", referenced from:      _cvbCartToPolar in main.o      _cvbFastArctan in main.o  "_cvCalcEMD2", referenced from:      _cvCalcEMD in main.o  "_cvCalcArrHist", referenced from:      _cvCalcHist in main.o  "_cvFindExtrinsicCameraParams2", referenced from:      _cvFindExtrinsicCameraParams in main.o      _cvFindExtrinsicCameraParams_64d in main.o  "_cvKMeans2", referenced from:      _cvKMeans in main.o  "_cvGetRawData", referenced from:      _cvUnDistortInit in main.o      _cvUnDistort in main.o  "_cvGetFileNodeByName", referenced from:      _cvReadIntByName in main.o      _cvReadRealByName in main.o      _cvReadStringByName in main.o      _cvReadByName in main.o  "_cvPerspectiveTransform", referenced from:      _cvmPerspectiveProject in main.o  "_cvSetAdd", referenced from:      _cvSetNew in main.o  "_cvRetrieveFrame", referenced from:      _main in main.o      _main in main.o  "_cvFitLine", referenced from:      _cvFitLine3D in main.o      _cvFitLine2D in main.o  "_cvUndistort2", referenced from:      _cvUnDistortOnce in main.o  "_cvGetSeqElem", referenced from:      _cvGetSetElem in main.o  "_cvCreateSubdiv2D", referenced from:      _cvCreateSubdivDelaunay2D in main.o  "_cvGetSize", referenced from:      _main in main.o      _main in main.o  "_cvConvexHull2", referenced from:      _cvConvexHull in main.o  "_cvExp", referenced from:      _cvbFastExp in main.o  "_cvRandArr", referenced from:      _cvRand in main.o  "_cvInitFont", referenced from:      _cvFont in main.o  "_cvTransform", referenced from:      _cvProject3D in main.o  "_cvFitEllipse2", referenced from:      _cvFitEllipse in main.o  "_cvGetCols", referenced from:      _cvGetCol in main.o  "_cvGetRows", referenced from:      _cvGetRow in main.o  "_cvCircle", referenced from:      _cvCircleAA in main.old: symbol(s) not foundcollect2: ld returned 1 exit status184(22@138"In /opt/local/lib/libopencv_core.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#0#152#0(6@0"351028720#0#0#0#0#0"0(22@141"In /opt/local/lib/libopencv_highgui.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#152#155#0(6@0"351028720#0#0#0#0#0"0(22@141"In /opt/local/lib/libopencv_imgproc.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#307#155#0(6@0"351028720#0#0#0#0#0"0(22@140"In /opt/local/lib/libopencv_legacy.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#462#154#0(6@0"351028720#0#0#0#0#0"0(22@139"In /opt/local/lib/libopencv_video.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#616#153#0(6@0"351028720#0#0#0#0#0"0(22@131"In /opt/local/lib/libopenjpeg.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#769#145#0(6@0"351028720#0#0#0#0#0"0(22@141"In /opt/local/lib/libopencv_calib3d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#914#155#0(6@0"351028720#0#0#0#0#0"0(22@141"In /opt/local/lib/libopencv_contrib.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1069#155#0(6@0"351028720#0#0#0#0#0"0(22@144"In /opt/local/lib/libopencv_features2d.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1224#158#0(6@0"351028720#0#0#0#0#0"0(22@139"In /opt/local/lib/libopencv_flann.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1382#153#0(6@0"351028720#0#0#0#0#0"0(22@137"In /opt/local/lib/libopencv_gpu.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1535#151#0(6@0"351028720#0#0#0#0#0"0(22@136"In /opt/local/lib/libopencv_ml.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1686#150#0(6@0"351028720#0#0#0#0#0"0(22@143"In /opt/local/lib/libopencv_objdetect.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1836#157#0(6@0"351028720#0#0#0#0#0"0(22@136"In /opt/local/lib/libopencv_ts.2.3.1.dylib, file was built for unsupported file format which is not the architecture being linked (i386)351028720#1993#150#0(6@0"351028720#0#0#0#0#0"0(4@35""_cvMinAreaRect2", referenced from:351028720#2162#38#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvMinAreaRect in main.o351028720#2200#31#0(6@0"351028720#0#0#0#0#0"0(4@33""_cvReleaseMat", referenced from:351028720#2231#36#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvReleaseMatND in main.o351028720#2267#32#0(6@0"351028720#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o351028720#2299#41#0(6@0"351028720#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o351028720#2340#41#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvKMeans in main.o351028720#2381#26#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvPow", referenced from:351028720#2407#29#0(6@0"351028720#0#0#0#0#0"0(13@18"_cvbSqrt in main.o351028720#2436#25#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvbInvSqrt in main.o351028720#2461#28#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvbReciprocal in main.o351028720#2489#31#0(6@0"351028720#0#0#0#0#0"0(4@33""_cvRodrigues2", referenced from:351028720#2520#36#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvRodrigues in main.o351028720#2556#29#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvRodrigues in main.o351028720#2585#29#0(6@0"351028720#0#0#0#0#0"0(4@32""_cvGrabFrame", referenced from:351028720#2614#35#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#2649#22#0(6@0"351028720#0#0#0#0#0"0(4@43""_cvInitSubdivDelaunay2D", referenced from:351028720#2671#46#0(6@0"351028720#0#0#0#0#0"0(13@35"_cvCreateSubdivDelaunay2D in main.o351028720#2717#42#0(6@0"351028720#0#0#0#0#0"0(4@31""_cvPolyLine", referenced from:351028720#2759#34#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o351028720#2793#30#0(6@0"351028720#0#0#0#0#0"0(4@39""_cvCalibrateCamera2", referenced from:351028720#2823#42#0(6@0"351028720#0#0#0#0#0"0(13@28"_cvCalibrateCamera in main.o351028720#2865#35#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvCalibrateCamera_64d in main.o351028720#2900#39#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvSet", referenced from:351028720#2939#29#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvFillImage in main.o351028720#2968#29#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvHoughLines2", referenced from:351028720#2997#37#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvHoughLines in main.o351028720#3034#30#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvHoughLinesP in main.o351028720#3064#31#0(6@0"351028720#0#0#0#0#0"0(13@27"_cvHoughLinesSDiv in main.o351028720#3095#34#0(6@0"351028720#0#0#0#0#0"0(4@42""_cvCreateCameraCapture", referenced from:351028720#3129#45#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#3174#22#0(6@0"351028720#0#0#0#0#0"0(4@27""_cvAddS", referenced from:351028720#3196#30#0(6@0"351028720#0#0#0#0#0"0(13@17"_cvSubS in main.o351028720#3226#24#0(6@0"351028720#0#0#0#0#0"0(4@41""_cvFindFundamentalMat", referenced from:351028720#3250#44#0(6@0"351028720#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o351028720#3294#41#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvAvg", referenced from:351028720#3335#29#0(6@0"351028720#0#0#0#0#0"0(13@17"_cvMean in main.o351028720#3364#24#0(6@0"351028720#0#0#0#0#0"0(4@42""_cvReleaseGraphScanner", referenced from:351028720#3388#45#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o351028720#3433#32#0(6@0"351028720#0#0#0#0#0"0(4@31""_cvSeqSlice", referenced from:351028720#3465#34#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvCloneSeq in main.o351028720#3499#28#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvEllipse", referenced from:351028720#3527#33#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvEllipseBox in main.o351028720#3560#30#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o351028720#3590#29#0(6@0"351028720#0#0#0#0#0"0(4@28""_cvError", referenced from:351028720#3619#31#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvRandSetRange in main.o351028720#3650#32#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvRandSetRange in main.o351028720#3682#32#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvRandInit in main.o351028720#3714#28#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvRandInit in main.o351028720#3742#28#0(6@0"351028720#0#0#0#0#0"0(13@17"_cvRand in main.o351028720#3770#24#0(6@0"351028720#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o351028720#3794#34#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o351028720#3828#32#0(6@0"351028720#0#0#0#0#0"0(4@28""_cvCanny", referenced from:351028720#3860#31#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#3891#22#0(6@0"351028720#0#0#0#0#0"0(4@27""_cvLine", referenced from:351028720#3913#30#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvLineAA in main.o351028720#3943#26#0(6@0"351028720#0#0#0#0#0"0(4@27""_cvRead", referenced from:351028720#3969#30#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvReadByName in main.o351028720#3999#30#0(6@0"351028720#0#0#0#0#0"0(4@29""_cvAvgSdv", referenced from:351028720#4029#32#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvMean_StdDev in main.o351028720#4061#31#0(6@0"351028720#0#0#0#0#0"0(4@36""_cvColorToScalar", referenced from:351028720#4092#39#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvFillImage in main.o351028720#4131#29#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvLineAA in main.o351028720#4160#26#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvCircleAA in main.o351028720#4186#28#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o351028720#4214#29#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o351028720#4243#30#0(6@0"351028720#0#0#0#0#0"0(4@31""_cvCvtColor", referenced from:351028720#4273#34#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#4307#22#0(6@0"351028720#0#0#0#0#0"0(4@32""_cvBoxPoints", referenced from:351028720#4329#35#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvMinAreaRect in main.o351028720#4364#31#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvNamedWindow", referenced from:351028720#4395#37#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#4432#22#0(6@0"351028720#0#0#0#0#0"0(4@29""_cvInvert", referenced from:351028720#4454#32#0(6@0"351028720#0#0#0#0#0"0(13@26"_cvPseudoInverse in main.o351028720#4486#33#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvReshape", referenced from:351028720#4519#33#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o351028720#4552#39#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o351028720#4591#39#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvCreateImage", referenced from:351028720#4630#37#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#4667#22#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#4689#22#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvLog", referenced from:351028720#4711#29#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvbFastLog in main.o351028720#4740#28#0(6@0"351028720#0#0#0#0#0"0(4@32""_cvShowImage", referenced from:351028720#4768#35#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#4803#22#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvGetElemType", referenced from:351028720#4825#37#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvFillImage in main.o351028720#4862#29#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvLineAA in main.o351028720#4891#26#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvCircleAA in main.o351028720#4917#28#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o351028720#4945#29#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o351028720#4974#30#0(6@0"351028720#0#0#0#0#0"0(4@28""_cvFree_", referenced from:351028720#5004#31#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvDecRefData in main.o351028720#5035#30#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvDecRefData in main.o351028720#5065#30#0(6@0"351028720#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o351028720#5095#34#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvSum", referenced from:351028720#5129#29#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvSumPixels in main.o351028720#5158#29#0(6@0"351028720#0#0#0#0#0"0(4@37""_cvProjectPoints2", referenced from:351028720#5187#40#0(6@0"351028720#0#0#0#0#0"0(13@26"_cvProjectPoints in main.o351028720#5227#33#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvProjectPointsSimple in main.o351028720#5260#39#0(6@0"351028720#0#0#0#0#0"0(4@32""_cvCreateMat", referenced from:351028720#5299#35#0(6@0"351028720#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o351028720#5334#41#0(6@0"351028720#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o351028720#5375#41#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvKMeans in main.o351028720#5416#26#0(6@0"351028720#0#0#0#0#0"0(4@28""_cvAlloc", referenced from:351028720#5442#31#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o351028720#5473#32#0(6@0"351028720#0#0#0#0#0"0(4@41""_cvCreateGraphScanner", referenced from:351028720#5505#44#0(6@0"351028720#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o351028720#5549#34#0(6@0"351028720#0#0#0#0#0"0(4@44""_cvFindChessboardCorners", referenced from:351028720#5583#47#0(6@0"351028720#0#0#0#0#0"0(13@40"_cvFindChessBoardCornerGuesses in main.o351028720#5630#47#0(6@0"351028720#0#0#0#0#0"0(4@35""_cvBoundingRect", referenced from:351028720#5677#38#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvContourBoundingRect in main.o351028720#5715#39#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvCartToPolar", referenced from:351028720#5754#37#0(6@0"351028720#0#0#0#0#0"0(13@25"_cvbCartToPolar in main.o351028720#5791#32#0(6@0"351028720#0#0#0#0#0"0(13@24"_cvbFastArctan in main.o351028720#5823#31#0(6@0"351028720#0#0#0#0#0"0(4@31""_cvCalcEMD2", referenced from:351028720#5854#34#0(6@0"351028720#0#0#0#0#0"0(13@20"_cvCalcEMD in main.o351028720#5888#27#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvCalcArrHist", referenced from:351028720#5915#37#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvCalcHist in main.o351028720#5952#28#0(6@0"351028720#0#0#0#0#0"0(4@49""_cvFindExtrinsicCameraParams2", referenced from:351028720#5980#52#0(6@0"351028720#0#0#0#0#0"0(13@38"_cvFindExtrinsicCameraParams in main.o351028720#6032#45#0(6@0"351028720#0#0#0#0#0"0(13@42"_cvFindExtrinsicCameraParams_64d in main.o351028720#6077#49#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvKMeans2", referenced from:351028720#6126#33#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvKMeans in main.o351028720#6159#26#0(6@0"351028720#0#0#0#0#0"0(4@33""_cvGetRawData", referenced from:351028720#6185#36#0(6@0"351028720#0#0#0#0#0"0(13@26"_cvUnDistortInit in main.o351028720#6221#33#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvUnDistort in main.o351028720#6254#29#0(6@0"351028720#0#0#0#0#0"0(4@40""_cvGetFileNodeByName", referenced from:351028720#6283#43#0(6@0"351028720#0#0#0#0#0"0(13@26"_cvReadIntByName in main.o351028720#6326#33#0(6@0"351028720#0#0#0#0#0"0(13@27"_cvReadRealByName in main.o351028720#6359#34#0(6@0"351028720#0#0#0#0#0"0(13@29"_cvReadStringByName in main.o351028720#6393#36#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvReadByName in main.o351028720#6429#30#0(6@0"351028720#0#0#0#0#0"0(4@43""_cvPerspectiveTransform", referenced from:351028720#6459#46#0(6@0"351028720#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o351028720#6505#39#0(6@0"351028720#0#0#0#0#0"0(4@29""_cvSetAdd", referenced from:351028720#6544#32#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvSetNew in main.o351028720#6576#26#0(6@0"351028720#0#0#0#0#0"0(4@36""_cvRetrieveFrame", referenced from:351028720#6602#39#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#6641#22#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#6663#22#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvFitLine", referenced from:351028720#6685#33#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvFitLine3D in main.o351028720#6718#29#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvFitLine2D in main.o351028720#6747#29#0(6@0"351028720#0#0#0#0#0"0(4@33""_cvUndistort2", referenced from:351028720#6776#36#0(6@0"351028720#0#0#0#0#0"0(13@26"_cvUnDistortOnce in main.o351028720#6812#33#0(6@0"351028720#0#0#0#0#0"0(4@33""_cvGetSeqElem", referenced from:351028720#6845#36#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvGetSetElem in main.o351028720#6881#30#0(6@0"351028720#0#0#0#0#0"0(4@37""_cvCreateSubdiv2D", referenced from:351028720#6911#40#0(6@0"351028720#0#0#0#0#0"0(13@35"_cvCreateSubdivDelaunay2D in main.o351028720#6951#42#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvGetSize", referenced from:351028720#6993#33#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#7026#22#0(6@0"351028720#0#0#0#0#0"0(13@15"_main in main.o351028720#7048#22#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvConvexHull2", referenced from:351028720#7070#37#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvConvexHull in main.o351028720#7107#30#0(6@0"351028720#0#0#0#0#0"0(4@26""_cvExp", referenced from:351028720#7137#29#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvbFastExp in main.o351028720#7166#28#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvRandArr", referenced from:351028720#7194#33#0(6@0"351028720#0#0#0#0#0"0(13@17"_cvRand in main.o351028720#7227#24#0(6@0"351028720#0#0#0#0#0"0(4@31""_cvInitFont", referenced from:351028720#7251#34#0(6@0"351028720#0#0#0#0#0"0(13@17"_cvFont in main.o351028720#7285#24#0(6@0"351028720#0#0#0#0#0"0(4@32""_cvTransform", referenced from:351028720#7309#35#0(6@0"351028720#0#0#0#0#0"0(13@22"_cvProject3D in main.o351028720#7344#29#0(6@0"351028720#0#0#0#0#0"0(4@34""_cvFitEllipse2", referenced from:351028720#7373#37#0(6@0"351028720#0#0#0#0#0"0(13@23"_cvFitEllipse in main.o351028720#7410#30#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvGetCols", referenced from:351028720#7440#33#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvGetCol in main.o351028720#7473#26#0(6@0"351028720#0#0#0#0#0"0(4@30""_cvGetRows", referenced from:351028720#7499#33#0(6@0"351028720#0#0#0#0#0"0(13@19"_cvGetRow in main.o351028720#7532#26#0(6@0"351028720#0#0#0#0#0"0(4@29""_cvCircle", referenced from:351028720#7558#32#0(6@0"351028720#0#0#0#0#0"0(13@21"_cvCircleAA in main.o351028720#7590#28#0(6@0"351028720#0#0#0#0#0"0(13@19"Symbol(s) not found351028720#7618#24#0(6@0"351028720#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status351028720#7642#36#0(6@0"351028720#0#0#0#0#0"0(0#0#0"8605098240#919"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-L/Users/JLH/Documents/Projects/C Projects/BarCode" -L/opt/local/lib "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" -filelist "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/ImProc2.LinkFileList" -mmacosx-version-min=10.6 -lopencv_core.2.3.1 -lopencv_highgui.2.3.1 -lopencv_imgproc.2.3.1 -lopencv_legacy.2.3.1 -lopencv_video.2.3.1 -lopenjpeg.1 -lopencv_calib3d.2.3.1 -lopencv_contrib.2.3.1 -lopencv_features2d.2.3.1 -lopencv_flann.2.3.1 -lopencv_gpu.2.3.1 -lopencv_ml.2.3.1 -lopencv_objdetect.2.3.1 -lopencv_ts.2.3.1 -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2"1#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal x86_64
+s351030242.866061
+e351030242.898902
+r1
+xLd
+x/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2351030242#351030242#0(0"0(0#0#0"8610288224#923"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-L/Users/JLH/Documents/Projects/C Projects/BarCode" -L/opt/local/lib "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" -filelist "/Users/JLH/Documents/Projects/C Projects/BarCode/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/ImProc2.LinkFileList" -mmacosx-version-min=10.6 -lopencv_core.2.3.1 -lopencv_highgui.2.3.1 -lopencv_imgproc.2.3.1 -lopencv_legacy.2.3.1 -lopencv_video.2.3.1 -lopenjpeg.1 -lopencv_calib3d.2.3.1 -lopencv_contrib.2.3.1 -lopencv_features2d.2.3.1 -lopencv_flann.2.3.1 -lopencv_gpu.2.3.1 -lopencv_ml.2.3.1 -lopencv_objdetect.2.3.1 -lopencv_ts.2.3.1 -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2"0#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2" normal i386
+s290236222.504978
+e290236222.729624
+r1
+xLd
+x/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2
+xnormal
+xi386
+lSLF07#2@73"Link /Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2290236222#290236222#0(0"0(0#0#0"4300885448#625"    cd "/Users/JLH/Documents/Projects/C Projects/ImProc2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" "-L/Users/JLH/Documents/Projects/C Projects/ImProc2" "-F/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" -filelist "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/i386/ImProc2.LinkFileList" -mmacosx-version-min=10.6 -framework OpenCV -o "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2"0#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2" normal x86_64
+s288212794.428416
+e288212794.469194
+r0
+xLd
+x/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2
+xnormal
+xx86_64
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcv.dylib, file is not of required architecture
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcvaux.dylib, file is not of required architecture
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcxcore.dylib, file is not of required architecture
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libhighgui.dylib, file is not of required architecture
+oUndefined symbols:
+o  "_cvMinAreaRect2", referenced from:
+o      _cvMinAreaRect in main.o
+o  "_cvReleaseMat", referenced from:
+o      _cvReleaseMatND in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvKMeans in main.o
+o  "_cvPow", referenced from:
+o      _cvbSqrt in main.o
+o      _cvbInvSqrt in main.o
+o      _cvbReciprocal in main.o
+o  "_cvRodrigues2", referenced from:
+o      _cvRodrigues in main.o
+o      _cvRodrigues in main.o
+o  "_cvGrabFrame", referenced from:
+o      _main in main.o
+o  "_cvInitSubdivDelaunay2D", referenced from:
+o      _cvCreateSubdivDelaunay2D in main.o
+o  "_cvPolyLine", referenced from:
+o      _cvPolyLineAA in main.o
+o  "_cvCalibrateCamera2", referenced from:
+o      _cvCalibrateCamera in main.o
+o      _cvCalibrateCamera_64d in main.o
+o  "_cvSet", referenced from:
+o      _cvFillImage in main.o
+o  "_cvHoughLines2", referenced from:
+o      _cvHoughLines in main.o
+o      _cvHoughLinesP in main.o
+o      _cvHoughLinesSDiv in main.o
+o  "_cvCreateCameraCapture", referenced from:
+o      _main in main.o
+o  "_cvAddS", referenced from:
+o      _cvSubS in main.o
+o  "_cvFindFundamentalMat", referenced from:
+o      _cvFindFundamentalMatrix in main.o
+o  "_cvAvg", referenced from:
+o      _cvMean in main.o
+o  "_cvReleaseGraphScanner", referenced from:
+o      _cvEndScanGraph in main.o
+o  "_cvSeqSlice", referenced from:
+o      _cvCloneSeq in main.o
+o  "_cvEllipse", referenced from:
+o      _cvEllipseBox in main.o
+o      _cvEllipseAA in main.o
+o  "_cvError", referenced from:
+o      _cvRandSetRange in main.o
+o      _cvRandSetRange in main.o
+o      _cvRandInit in main.o
+o      _cvRandInit in main.o
+o      _cvRand in main.o
+o      _cvStartScanGraph in main.o
+o      _cvEndScanGraph in main.o
+o  "_cvLine", referenced from:
+o      _cvLineAA in main.o
+o  "_cvRead", referenced from:
+o      _cvReadByName in main.o
+o  "_cvAvgSdv", referenced from:
+o      _cvMean_StdDev in main.o
+o  "_cvColorToScalar", referenced from:
+o      _cvFillImage in main.o
+o      _cvLineAA in main.o
+o      _cvCircleAA in main.o
+o      _cvEllipseAA in main.o
+o      _cvPolyLineAA in main.o
+o  "_cvBoxPoints", referenced from:
+o      _cvMinAreaRect in main.o
+o  "_cvNamedWindow", referenced from:
+o      _main in main.o
+o  "_cvInvert", referenced from:
+o      _cvPseudoInverse in main.o
+o  "_cvReshape", referenced from:
+o      _cvmPerspectiveProject in main.o
+o      _cvmPerspectiveProject in main.o
+o  "_cvLog", referenced from:
+o      _cvbFastLog in main.o
+o  "_cvShowImage", referenced from:
+o      _main in main.o
+o  "_cvGetElemType", referenced from:
+o      _cvFillImage in main.o
+o      _cvLineAA in main.o
+o      _cvCircleAA in main.o
+o      _cvEllipseAA in main.o
+o      _cvPolyLineAA in main.o
+o  "_cvFree_", referenced from:
+o      _cvDecRefData in main.o
+o      _cvDecRefData in main.o
+o      _cvStartScanGraph in main.o
+o  "_cvSum", referenced from:
+o      _cvSumPixels in main.o
+o  "_cvProjectPoints2", referenced from:
+o      _cvProjectPoints in main.o
+o      _cvProjectPointsSimple in main.o
+o  "_cvCreateMat", referenced from:
+o      _cvFindFundamentalMatrix in main.o
+o      _cvFindFundamentalMatrix in main.o
+o      _cvKMeans in main.o
+o  "_cvAlloc", referenced from:
+o      _cvEndScanGraph in main.o
+o  "_cvCreateGraphScanner", referenced from:
+o      _cvStartScanGraph in main.o
+o  "_cvFindChessboardCorners", referenced from:
+o      _cvFindChessBoardCornerGuesses in main.o
+o  "_cvBoundingRect", referenced from:
+o      _cvContourBoundingRect in main.o
+o  "_cvCartToPolar", referenced from:
+o      _cvbCartToPolar in main.o
+o      _cvbFastArctan in main.o
+o  "_cvCalcEMD2", referenced from:
+o      _cvCalcEMD in main.o
+o  "_cvCalcArrHist", referenced from:
+o      _cvCalcHist in main.o
+o  "_cvFindExtrinsicCameraParams2", referenced from:
+o      _cvFindExtrinsicCameraParams in main.o
+o      _cvFindExtrinsicCameraParams_64d in main.o
+o  "_cvKMeans2", referenced from:
+o      _cvKMeans in main.o
+o  "_cvGetRawData", referenced from:
+o      _cvUnDistortInit in main.o
+o      _cvUnDistort in main.o
+o  "_cvGetFileNodeByName", referenced from:
+o      _cvReadIntByName in main.o
+o      _cvReadRealByName in main.o
+o      _cvReadStringByName in main.o
+o      _cvReadByName in main.o
+o  "_cvPerspectiveTransform", referenced from:
+o      _cvmPerspectiveProject in main.o
+o  "_cvSetAdd", referenced from:
+o      _cvSetNew in main.o
+o  "_cvRetrieveFrame", referenced from:
+o      _main in main.o
+o  "_cvFitLine", referenced from:
+o      _cvFitLine3D in main.o
+o      _cvFitLine2D in main.o
+o  "_cvUndistort2", referenced from:
+o      _cvUnDistortOnce in main.o
+o  "_cvGetSeqElem", referenced from:
+o      _cvGetSetElem in main.o
+o  "_cvCreateSubdiv2D", referenced from:
+o      _cvCreateSubdivDelaunay2D in main.o
+o  "_cvConvexHull2", referenced from:
+o      _cvConvexHull in main.o
+o  "_cvExp", referenced from:
+o      _cvbFastExp in main.o
+o  "_cvRandArr", referenced from:
+o      _cvRand in main.o
+o  "_cvInitFont", referenced from:
+o      _cvFont in main.o
+o  "_cvTransform", referenced from:
+o      _cvProject3D in main.o
+o  "_cvFitEllipse2", referenced from:
+o      _cvFitEllipse in main.o
+o  "_cvGetCols", referenced from:
+o      _cvGetCol in main.o
+o  "_cvGetRows", referenced from:
+o      _cvGetRow in main.o
+o  "_cvCircle", referenced from:
+o      _cvCircleAA in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@73"Link /Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2288212794#288212794#0(5702"ld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcv.dylib, file is not of required architectureld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcvaux.dylib, file is not of required architectureld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcxcore.dylib, file is not of required architectureld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libhighgui.dylib, file is not of required architectureUndefined symbols:  "_cvMinAreaRect2", referenced from:      _cvMinAreaRect in main.o  "_cvReleaseMat", referenced from:      _cvReleaseMatND in main.o      _cvFindFundamentalMatrix in main.o      _cvFindFundamentalMatrix in main.o      _cvKMeans in main.o  "_cvPow", referenced from:      _cvbSqrt in main.o      _cvbInvSqrt in main.o      _cvbReciprocal in main.o  "_cvRodrigues2", referenced from:      _cvRodrigues in main.o      _cvRodrigues in main.o  "_cvGrabFrame", referenced from:      _main in main.o  "_cvInitSubdivDelaunay2D", referenced from:      _cvCreateSubdivDelaunay2D in main.o  "_cvPolyLine", referenced from:      _cvPolyLineAA in main.o  "_cvCalibrateCamera2", referenced from:      _cvCalibrateCamera in main.o      _cvCalibrateCamera_64d in main.o  "_cvSet", referenced from:      _cvFillImage in main.o  "_cvHoughLines2", referenced from:      _cvHoughLines in main.o      _cvHoughLinesP in main.o      _cvHoughLinesSDiv in main.o  "_cvCreateCameraCapture", referenced from:      _main in main.o  "_cvAddS", referenced from:      _cvSubS in main.o  "_cvFindFundamentalMat", referenced from:      _cvFindFundamentalMatrix in main.o  "_cvAvg", referenced from:      _cvMean in main.o  "_cvReleaseGraphScanner", referenced from:      _cvEndScanGraph in main.o  "_cvSeqSlice", referenced from:      _cvCloneSeq in main.o  "_cvEllipse", referenced from:      _cvEllipseBox in main.o      _cvEllipseAA in main.o  "_cvError", referenced from:      _cvRandSetRange in main.o      _cvRandSetRange in main.o      _cvRandInit in main.o      _cvRandInit in main.o      _cvRand in main.o      _cvStartScanGraph in main.o      _cvEndScanGraph in main.o  "_cvLine", referenced from:      _cvLineAA in main.o  "_cvRead", referenced from:      _cvReadByName in main.o  "_cvAvgSdv", referenced from:      _cvMean_StdDev in main.o  "_cvColorToScalar", referenced from:      _cvFillImage in main.o      _cvLineAA in main.o      _cvCircleAA in main.o      _cvEllipseAA in main.o      _cvPolyLineAA in main.o  "_cvBoxPoints", referenced from:      _cvMinAreaRect in main.o  "_cvNamedWindow", referenced from:      _main in main.o  "_cvInvert", referenced from:      _cvPseudoInverse in main.o  "_cvReshape", referenced from:      _cvmPerspectiveProject in main.o      _cvmPerspectiveProject in main.o  "_cvLog", referenced from:      _cvbFastLog in main.o  "_cvShowImage", referenced from:      _main in main.o  "_cvGetElemType", referenced from:      _cvFillImage in main.o      _cvLineAA in main.o      _cvCircleAA in main.o      _cvEllipseAA in main.o      _cvPolyLineAA in main.o  "_cvFree_", referenced from:      _cvDecRefData in main.o      _cvDecRefData in main.o      _cvStartScanGraph in main.o  "_cvSum", referenced from:      _cvSumPixels in main.o  "_cvProjectPoints2", referenced from:      _cvProjectPoints in main.o      _cvProjectPointsSimple in main.o  "_cvCreateMat", referenced from:      _cvFindFundamentalMatrix in main.o      _cvFindFundamentalMatrix in main.o      _cvKMeans in main.o  "_cvAlloc", referenced from:      _cvEndScanGraph in main.o  "_cvCreateGraphScanner", referenced from:      _cvStartScanGraph in main.o  "_cvFindChessboardCorners", referenced from:      _cvFindChessBoardCornerGuesses in main.o  "_cvBoundingRect", referenced from:      _cvContourBoundingRect in main.o  "_cvCartToPolar", referenced from:      _cvbCartToPolar in main.o      _cvbFastArctan in main.o  "_cvCalcEMD2", referenced from:      _cvCalcEMD in main.o  "_cvCalcArrHist", referenced from:      _cvCalcHist in main.o  "_cvFindExtrinsicCameraParams2", referenced from:      _cvFindExtrinsicCameraParams in main.o      _cvFindExtrinsicCameraParams_64d in main.o  "_cvKMeans2", referenced from:      _cvKMeans in main.o  "_cvGetRawData", referenced from:      _cvUnDistortInit in main.o      _cvUnDistort in main.o  "_cvGetFileNodeByName", referenced from:      _cvReadIntByName in main.o      _cvReadRealByName in main.o      _cvReadStringByName in main.o      _cvReadByName in main.o  "_cvPerspectiveTransform", referenced from:      _cvmPerspectiveProject in main.o  "_cvSetAdd", referenced from:      _cvSetNew in main.o  "_cvRetrieveFrame", referenced from:      _main in main.o  "_cvFitLine", referenced from:      _cvFitLine3D in main.o      _cvFitLine2D in main.o  "_cvUndistort2", referenced from:      _cvUnDistortOnce in main.o  "_cvGetSeqElem", referenced from:      _cvGetSetElem in main.o  "_cvCreateSubdiv2D", referenced from:      _cvCreateSubdivDelaunay2D in main.o  "_cvConvexHull2", referenced from:      _cvConvexHull in main.o  "_cvExp", referenced from:      _cvbFastExp in main.o  "_cvRandArr", referenced from:      _cvRand in main.o  "_cvInitFont", referenced from:      _cvFont in main.o  "_cvTransform", referenced from:      _cvProject3D in main.o  "_cvFitEllipse2", referenced from:      _cvFitEllipse in main.o  "_cvGetCols", referenced from:      _cvGetCol in main.o  "_cvGetRows", referenced from:      _cvGetRow in main.o  "_cvCircle", referenced from:      _cvCircleAA in main.old: symbol(s) not foundcollect2: ld returned 1 exit status163(22@97"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcv.dylib, file is not of required architecture288212794#0#111#0(6@0"288212794#0#0#0#0#0"0(22@100"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcvaux.dylib, file is not of required architecture288212794#111#114#0(6@0"288212794#0#0#0#0#0"0(22@101"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcxcore.dylib, file is not of required architecture288212794#225#115#0(6@0"288212794#0#0#0#0#0"0(22@102"In /Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libhighgui.dylib, file is not of required architecture288212794#340#116#0(6@0"288212794#0#0#0#0#0"0(4@35""_cvMinAreaRect2", referenced from:288212794#475#38#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvMinAreaRect in main.o288212794#513#31#0(6@0"288212794#0#0#0#0#0"0(4@33""_cvReleaseMat", referenced from:288212794#544#36#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvReleaseMatND in main.o288212794#580#32#0(6@0"288212794#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o288212794#612#41#0(6@0"288212794#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o288212794#653#41#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvKMeans in main.o288212794#694#26#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvPow", referenced from:288212794#720#29#0(6@0"288212794#0#0#0#0#0"0(13@18"_cvbSqrt in main.o288212794#749#25#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvbInvSqrt in main.o288212794#774#28#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvbReciprocal in main.o288212794#802#31#0(6@0"288212794#0#0#0#0#0"0(4@33""_cvRodrigues2", referenced from:288212794#833#36#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvRodrigues in main.o288212794#869#29#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvRodrigues in main.o288212794#898#29#0(6@0"288212794#0#0#0#0#0"0(4@32""_cvGrabFrame", referenced from:288212794#927#35#0(6@0"288212794#0#0#0#0#0"0(13@15"_main in main.o288212794#962#22#0(6@0"288212794#0#0#0#0#0"0(4@43""_cvInitSubdivDelaunay2D", referenced from:288212794#984#46#0(6@0"288212794#0#0#0#0#0"0(13@35"_cvCreateSubdivDelaunay2D in main.o288212794#1030#42#0(6@0"288212794#0#0#0#0#0"0(4@31""_cvPolyLine", referenced from:288212794#1072#34#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o288212794#1106#30#0(6@0"288212794#0#0#0#0#0"0(4@39""_cvCalibrateCamera2", referenced from:288212794#1136#42#0(6@0"288212794#0#0#0#0#0"0(13@28"_cvCalibrateCamera in main.o288212794#1178#35#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvCalibrateCamera_64d in main.o288212794#1213#39#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvSet", referenced from:288212794#1252#29#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvFillImage in main.o288212794#1281#29#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvHoughLines2", referenced from:288212794#1310#37#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvHoughLines in main.o288212794#1347#30#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvHoughLinesP in main.o288212794#1377#31#0(6@0"288212794#0#0#0#0#0"0(13@27"_cvHoughLinesSDiv in main.o288212794#1408#34#0(6@0"288212794#0#0#0#0#0"0(4@42""_cvCreateCameraCapture", referenced from:288212794#1442#45#0(6@0"288212794#0#0#0#0#0"0(13@15"_main in main.o288212794#1487#22#0(6@0"288212794#0#0#0#0#0"0(4@27""_cvAddS", referenced from:288212794#1509#30#0(6@0"288212794#0#0#0#0#0"0(13@17"_cvSubS in main.o288212794#1539#24#0(6@0"288212794#0#0#0#0#0"0(4@41""_cvFindFundamentalMat", referenced from:288212794#1563#44#0(6@0"288212794#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o288212794#1607#41#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvAvg", referenced from:288212794#1648#29#0(6@0"288212794#0#0#0#0#0"0(13@17"_cvMean in main.o288212794#1677#24#0(6@0"288212794#0#0#0#0#0"0(4@42""_cvReleaseGraphScanner", referenced from:288212794#1701#45#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o288212794#1746#32#0(6@0"288212794#0#0#0#0#0"0(4@31""_cvSeqSlice", referenced from:288212794#1778#34#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvCloneSeq in main.o288212794#1812#28#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvEllipse", referenced from:288212794#1840#33#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvEllipseBox in main.o288212794#1873#30#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o288212794#1903#29#0(6@0"288212794#0#0#0#0#0"0(4@28""_cvError", referenced from:288212794#1932#31#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvRandSetRange in main.o288212794#1963#32#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvRandSetRange in main.o288212794#1995#32#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvRandInit in main.o288212794#2027#28#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvRandInit in main.o288212794#2055#28#0(6@0"288212794#0#0#0#0#0"0(13@17"_cvRand in main.o288212794#2083#24#0(6@0"288212794#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o288212794#2107#34#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o288212794#2141#32#0(6@0"288212794#0#0#0#0#0"0(4@27""_cvLine", referenced from:288212794#2173#30#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvLineAA in main.o288212794#2203#26#0(6@0"288212794#0#0#0#0#0"0(4@27""_cvRead", referenced from:288212794#2229#30#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvReadByName in main.o288212794#2259#30#0(6@0"288212794#0#0#0#0#0"0(4@29""_cvAvgSdv", referenced from:288212794#2289#32#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvMean_StdDev in main.o288212794#2321#31#0(6@0"288212794#0#0#0#0#0"0(4@36""_cvColorToScalar", referenced from:288212794#2352#39#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvFillImage in main.o288212794#2391#29#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvLineAA in main.o288212794#2420#26#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvCircleAA in main.o288212794#2446#28#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o288212794#2474#29#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o288212794#2503#30#0(6@0"288212794#0#0#0#0#0"0(4@32""_cvBoxPoints", referenced from:288212794#2533#35#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvMinAreaRect in main.o288212794#2568#31#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvNamedWindow", referenced from:288212794#2599#37#0(6@0"288212794#0#0#0#0#0"0(13@15"_main in main.o288212794#2636#22#0(6@0"288212794#0#0#0#0#0"0(4@29""_cvInvert", referenced from:288212794#2658#32#0(6@0"288212794#0#0#0#0#0"0(13@26"_cvPseudoInverse in main.o288212794#2690#33#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvReshape", referenced from:288212794#2723#33#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o288212794#2756#39#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o288212794#2795#39#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvLog", referenced from:288212794#2834#29#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvbFastLog in main.o288212794#2863#28#0(6@0"288212794#0#0#0#0#0"0(4@32""_cvShowImage", referenced from:288212794#2891#35#0(6@0"288212794#0#0#0#0#0"0(13@15"_main in main.o288212794#2926#22#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvGetElemType", referenced from:288212794#2948#37#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvFillImage in main.o288212794#2985#29#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvLineAA in main.o288212794#3014#26#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvCircleAA in main.o288212794#3040#28#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvEllipseAA in main.o288212794#3068#29#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvPolyLineAA in main.o288212794#3097#30#0(6@0"288212794#0#0#0#0#0"0(4@28""_cvFree_", referenced from:288212794#3127#31#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvDecRefData in main.o288212794#3158#30#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvDecRefData in main.o288212794#3188#30#0(6@0"288212794#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o288212794#3218#34#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvSum", referenced from:288212794#3252#29#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvSumPixels in main.o288212794#3281#29#0(6@0"288212794#0#0#0#0#0"0(4@37""_cvProjectPoints2", referenced from:288212794#3310#40#0(6@0"288212794#0#0#0#0#0"0(13@26"_cvProjectPoints in main.o288212794#3350#33#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvProjectPointsSimple in main.o288212794#3383#39#0(6@0"288212794#0#0#0#0#0"0(4@32""_cvCreateMat", referenced from:288212794#3422#35#0(6@0"288212794#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o288212794#3457#41#0(6@0"288212794#0#0#0#0#0"0(13@34"_cvFindFundamentalMatrix in main.o288212794#3498#41#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvKMeans in main.o288212794#3539#26#0(6@0"288212794#0#0#0#0#0"0(4@28""_cvAlloc", referenced from:288212794#3565#31#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvEndScanGraph in main.o288212794#3596#32#0(6@0"288212794#0#0#0#0#0"0(4@41""_cvCreateGraphScanner", referenced from:288212794#3628#44#0(6@0"288212794#0#0#0#0#0"0(13@27"_cvStartScanGraph in main.o288212794#3672#34#0(6@0"288212794#0#0#0#0#0"0(4@44""_cvFindChessboardCorners", referenced from:288212794#3706#47#0(6@0"288212794#0#0#0#0#0"0(13@40"_cvFindChessBoardCornerGuesses in main.o288212794#3753#47#0(6@0"288212794#0#0#0#0#0"0(4@35""_cvBoundingRect", referenced from:288212794#3800#38#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvContourBoundingRect in main.o288212794#3838#39#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvCartToPolar", referenced from:288212794#3877#37#0(6@0"288212794#0#0#0#0#0"0(13@25"_cvbCartToPolar in main.o288212794#3914#32#0(6@0"288212794#0#0#0#0#0"0(13@24"_cvbFastArctan in main.o288212794#3946#31#0(6@0"288212794#0#0#0#0#0"0(4@31""_cvCalcEMD2", referenced from:288212794#3977#34#0(6@0"288212794#0#0#0#0#0"0(13@20"_cvCalcEMD in main.o288212794#4011#27#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvCalcArrHist", referenced from:288212794#4038#37#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvCalcHist in main.o288212794#4075#28#0(6@0"288212794#0#0#0#0#0"0(4@49""_cvFindExtrinsicCameraParams2", referenced from:288212794#4103#52#0(6@0"288212794#0#0#0#0#0"0(13@38"_cvFindExtrinsicCameraParams in main.o288212794#4155#45#0(6@0"288212794#0#0#0#0#0"0(13@42"_cvFindExtrinsicCameraParams_64d in main.o288212794#4200#49#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvKMeans2", referenced from:288212794#4249#33#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvKMeans in main.o288212794#4282#26#0(6@0"288212794#0#0#0#0#0"0(4@33""_cvGetRawData", referenced from:288212794#4308#36#0(6@0"288212794#0#0#0#0#0"0(13@26"_cvUnDistortInit in main.o288212794#4344#33#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvUnDistort in main.o288212794#4377#29#0(6@0"288212794#0#0#0#0#0"0(4@40""_cvGetFileNodeByName", referenced from:288212794#4406#43#0(6@0"288212794#0#0#0#0#0"0(13@26"_cvReadIntByName in main.o288212794#4449#33#0(6@0"288212794#0#0#0#0#0"0(13@27"_cvReadRealByName in main.o288212794#4482#34#0(6@0"288212794#0#0#0#0#0"0(13@29"_cvReadStringByName in main.o288212794#4516#36#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvReadByName in main.o288212794#4552#30#0(6@0"288212794#0#0#0#0#0"0(4@43""_cvPerspectiveTransform", referenced from:288212794#4582#46#0(6@0"288212794#0#0#0#0#0"0(13@32"_cvmPerspectiveProject in main.o288212794#4628#39#0(6@0"288212794#0#0#0#0#0"0(4@29""_cvSetAdd", referenced from:288212794#4667#32#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvSetNew in main.o288212794#4699#26#0(6@0"288212794#0#0#0#0#0"0(4@36""_cvRetrieveFrame", referenced from:288212794#4725#39#0(6@0"288212794#0#0#0#0#0"0(13@15"_main in main.o288212794#4764#22#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvFitLine", referenced from:288212794#4786#33#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvFitLine3D in main.o288212794#4819#29#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvFitLine2D in main.o288212794#4848#29#0(6@0"288212794#0#0#0#0#0"0(4@33""_cvUndistort2", referenced from:288212794#4877#36#0(6@0"288212794#0#0#0#0#0"0(13@26"_cvUnDistortOnce in main.o288212794#4913#33#0(6@0"288212794#0#0#0#0#0"0(4@33""_cvGetSeqElem", referenced from:288212794#4946#36#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvGetSetElem in main.o288212794#4982#30#0(6@0"288212794#0#0#0#0#0"0(4@37""_cvCreateSubdiv2D", referenced from:288212794#5012#40#0(6@0"288212794#0#0#0#0#0"0(13@35"_cvCreateSubdivDelaunay2D in main.o288212794#5052#42#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvConvexHull2", referenced from:288212794#5094#37#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvConvexHull in main.o288212794#5131#30#0(6@0"288212794#0#0#0#0#0"0(4@26""_cvExp", referenced from:288212794#5161#29#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvbFastExp in main.o288212794#5190#28#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvRandArr", referenced from:288212794#5218#33#0(6@0"288212794#0#0#0#0#0"0(13@17"_cvRand in main.o288212794#5251#24#0(6@0"288212794#0#0#0#0#0"0(4@31""_cvInitFont", referenced from:288212794#5275#34#0(6@0"288212794#0#0#0#0#0"0(13@17"_cvFont in main.o288212794#5309#24#0(6@0"288212794#0#0#0#0#0"0(4@32""_cvTransform", referenced from:288212794#5333#35#0(6@0"288212794#0#0#0#0#0"0(13@22"_cvProject3D in main.o288212794#5368#29#0(6@0"288212794#0#0#0#0#0"0(4@34""_cvFitEllipse2", referenced from:288212794#5397#37#0(6@0"288212794#0#0#0#0#0"0(13@23"_cvFitEllipse in main.o288212794#5434#30#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvGetCols", referenced from:288212794#5464#33#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvGetCol in main.o288212794#5497#26#0(6@0"288212794#0#0#0#0#0"0(4@30""_cvGetRows", referenced from:288212794#5523#33#0(6@0"288212794#0#0#0#0#0"0(13@19"_cvGetRow in main.o288212794#5556#26#0(6@0"288212794#0#0#0#0#0"0(4@29""_cvCircle", referenced from:288212794#5582#32#0(6@0"288212794#0#0#0#0#0"0(13@21"_cvCircleAA in main.o288212794#5614#28#0(6@0"288212794#0#0#0#0#0"0(13@19"Symbol(s) not found288212794#5642#24#0(6@0"288212794#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status288212794#5666#36#0(6@0"288212794#0#0#0#0#0"0(0#0#0"4300885448#643"    cd "/Users/JLH/Documents/Projects/C Projects/ImProc2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" "-L/Users/JLH/Documents/Projects/C Projects/ImProc2" "-F/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" -filelist "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/ImProc2.LinkFileList" -mmacosx-version-min=10.6 -lcv -lcvaux -lcxcore -lhighgui -o "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2"1#
+

@@ -1,0 +1,211 @@
+TBarCode
+v7
+r0
+t351032401.469431
+cCheck dependencies
+cCompileC build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ED8B76400000000000000EE
+t1322825572
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/ImProc2.LinkFileList
+c000000004F3C1CD10000000000000076
+t1329339601
+s118
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+t1329338274
+s51848
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/cv.h
+c000000004B7D93D700000000000118DB
+t1266521047
+s71899
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+c000000004F3C1CC60000000000000EA6
+t1329339590
+s3750
+i"cv.h"
+i"highgui.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<assert.h>
+i<math.h>
+i<float.h>
+i<limits.h>
+i<time.h>
+i<ctype.h>
+
+N/opt/local/lib/libopencv_calib3d.2.3.1.dylib
+c000000004F2FFBD200000000000B5018
+t1328544722
+s741400
+
+N/opt/local/lib/libopencv_contrib.2.3.1.dylib
+c000000004F2FFC8600000000000669A0
+t1328544902
+s420256
+
+N/opt/local/lib/libopencv_core.2.3.1.dylib
+c000000004F2FF7D40000000000228C00
+t1328543700
+s2264064
+
+N/opt/local/lib/libopencv_features2d.2.3.1.dylib
+c000000004F2FF8B9000000000010B090
+t1328543929
+s1093776
+
+N/opt/local/lib/libopencv_flann.2.3.1.dylib
+c000000004F2FF7FC000000000008D2C0
+t1328543740
+s578240
+
+N/opt/local/lib/libopencv_gpu.2.3.1.dylib
+c000000004F2FFCE80000000000021840
+t1328545000
+s137280
+
+N/opt/local/lib/libopencv_highgui.2.3.1.dylib
+c000000004F2FF8690000000000053E78
+t1328543849
+s343672
+
+N/opt/local/lib/libopencv_imgproc.2.3.1.dylib
+c000000004F2FF8500000000000202E40
+t1328543824
+s2108992
+
+N/opt/local/lib/libopencv_legacy.2.3.1.dylib
+c000000004F2FFC4F00000000000C00C0
+t1328544847
+s786624
+
+N/opt/local/lib/libopencv_ml.2.3.1.dylib
+c000000004F2FF8400000000000079E10
+t1328543808
+s499216
+
+N/opt/local/lib/libopencv_objdetect.2.3.1.dylib
+c000000004F2FFC5C0000000000065AF8
+t1328544860
+s416504
+
+N/opt/local/lib/libopencv_ts.2.3.1.dylib
+c000000004F2FF8270000000000093D28
+t1328543783
+s605480
+
+N/opt/local/lib/libopencv_video.2.3.1.dylib
+c000000004F2FF8630000000000044488
+t1328543843
+s279688
+
+N/opt/local/lib/libopenjpeg.1.dylib
+c000000004F2FEC6F000000000001EA58
+t1328540783
+s125528
+
+N/usr/local/include/opencv/cv.hpp
+c000000004B7D8458000000000000B498
+t1266517080
+s46232
+
+N/usr/local/include/opencv/cvcompat.h
+c000000004B7D84580000000000009EE9
+t1266517080
+s40681
+
+N/usr/local/include/opencv/cvtypes.h
+c000000004B7D84580000000000002DC4
+t1266517080
+s11716
+
+N/usr/local/include/opencv/cxcore.h
+c000000004B7D84580000000000012EB3
+t1266517080
+s77491
+
+N/usr/local/include/opencv/highgui.h
+c000000004B7D84580000000000004749
+t1266517080
+s18249
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351032401#351032401#0(0"0(0#1#0"8613810048#0"0#
+
+CCompileC build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s351032401.467333
+e351032401.469370
+r0
+xCompileC
+xbuild/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o
+x/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/BarCode/main.c351032401#351032401#0(1111"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:85: warning: passing argument 1 of 'printf' from incompatible pointer type/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'process_and_draw':/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:105: warning: passing argument 1 of 'cvSize' makes integer from pointer without a cast/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:105: error: too few arguments to function 'cvSize'/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:114: warning: unused variable 'i'{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC6{standard input}:unknown:Undefined local symbol LC9{standard input}:unknown:Undefined local symbol LC10{standard input}:unknown:Undefined local symbol LC11{standard input}:unknown:Undefined local symbol LC22{standard input}:unknown:Undefined local symbol LC23{standard input}:unknown:Undefined local symbol LC29{standard input}:unknown:Undefined local symbol LC304(22@61"Passing argument 1 of 'printf' from incompatible pointer type351032401#77#131#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351032390#85#0#85#0#56"passing argument * of '*' from incompatible pointer type0(22@72"Passing argument 1 of 'cvSize' makes integer from pointer without a cast351032401#297#143#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351032390#105#0#105#0#67"passing argument * of '*' makes integer from pointer without a cast0(4@38"Too few arguments to function 'cvSize'351032401#440#107#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351032390#105#0#105#0#33"too few arguments to function '*'0(22@19"Unused variable 'i'351032401#547#90#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c351032390#114#0#114#0#19"unused variable '*'0(0#0#55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c8608262080#1430"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/DerivedSources/x86_64" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal x86_64
+r0
+

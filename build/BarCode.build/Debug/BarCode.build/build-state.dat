@@ -1,0 +1,240 @@
+TBarCode
+v7
+r0
+t358875371.388684
+cCheck dependencies
+cCompileC build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ED8B76400000000000000EE
+t1322825572
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/ImProc2.LinkFileList
+c000000004F3C1CD10000000000000076
+t1329339601
+s118
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o
+t1337182567
+s92216
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+t1337182571
+s57248
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/cv.h
+c000000004B7D93D700000000000118DB
+t1266521047
+s71899
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+c000000004FB3C96700000000000015A8
+t1337182567
+s5544
+i"cv.h"
+i"highgui.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<assert.h>
+i<math.h>
+i<float.h>
+i<limits.h>
+i<time.h>
+i<ctype.h>
+i"zbar.h"
+
+N/opt/local/lib/libopencv_calib3d.2.3.1.dylib
+c000000004F2FFBD200000000000B5018
+t1328544722
+s741400
+
+N/opt/local/lib/libopencv_contrib.2.3.1.dylib
+c000000004F2FFC8600000000000669A0
+t1328544902
+s420256
+
+N/opt/local/lib/libopencv_core.2.3.1.dylib
+c000000004F2FF7D40000000000228C00
+t1328543700
+s2264064
+
+N/opt/local/lib/libopencv_features2d.2.3.1.dylib
+c000000004F2FF8B9000000000010B090
+t1328543929
+s1093776
+
+N/opt/local/lib/libopencv_flann.2.3.1.dylib
+c000000004F2FF7FC000000000008D2C0
+t1328543740
+s578240
+
+N/opt/local/lib/libopencv_gpu.2.3.1.dylib
+c000000004F2FFCE80000000000021840
+t1328545000
+s137280
+
+N/opt/local/lib/libopencv_highgui.2.3.1.dylib
+c000000004F2FF8690000000000053E78
+t1328543849
+s343672
+
+N/opt/local/lib/libopencv_imgproc.2.3.1.dylib
+c000000004F2FF8500000000000202E40
+t1328543824
+s2108992
+
+N/opt/local/lib/libopencv_legacy.2.3.1.dylib
+c000000004F2FFC4F00000000000C00C0
+t1328544847
+s786624
+
+N/opt/local/lib/libopencv_ml.2.3.1.dylib
+c000000004F2FF8400000000000079E10
+t1328543808
+s499216
+
+N/opt/local/lib/libopencv_objdetect.2.3.1.dylib
+c000000004F2FFC5C0000000000065AF8
+t1328544860
+s416504
+
+N/opt/local/lib/libopencv_ts.2.3.1.dylib
+c000000004F2FF8270000000000093D28
+t1328543783
+s605480
+
+N/opt/local/lib/libopencv_video.2.3.1.dylib
+c000000004F2FF8630000000000044488
+t1328543843
+s279688
+
+N/opt/local/lib/libopenjpeg.1.dylib
+c000000004F2FEC6F000000000001EA58
+t1328540783
+s125528
+
+N/usr/local/include/opencv/cv.hpp
+c000000004B7D8458000000000000B498
+t1266517080
+s46232
+
+N/usr/local/include/opencv/cvcompat.h
+c000000004B7D84580000000000009EE9
+t1266517080
+s40681
+
+N/usr/local/include/opencv/cvtypes.h
+c000000004B7D84580000000000002DC4
+t1266517080
+s11716
+
+N/usr/local/include/opencv/cxcore.h
+c000000004B7D84580000000000012EB3
+t1266517080
+s77491
+
+N/usr/local/include/opencv/highgui.h
+c000000004B7D84580000000000004749
+t1266517080
+s18249
+
+N/usr/local/include/zbar.h
+c000000004F3C25BA000000000000B8EB
+t1329341882
+s47339
+
+N/usr/local/lib/libzbar.0.dylib
+c000000004F3C25B90000000000036828
+t1329341881
+s223272
+
+N/usr/local/lib/libzbar.a
+c000000004F3C25B900000000000CB498
+t1329341881
+s832664
+
+N/usr/local/lib/libzbar.dylib
+c000000004F3C25B90000000000036828
+t1329341881
+s223272
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358875370#358875370#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s358875370.550387
+e358875370.572425
+r1
+xCompileC
+xbuild/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o
+x/Users/JLH/Documents/Projects/C Projects/BarCode/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/BarCode/main.c358875370#358875370#0(577"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:90: warning: passing argument 1 of 'printf' from incompatible pointer type/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: In function 'process_and_draw':/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:139: warning: implicit declaration of function 'GetCode'/Users/JLH/Documents/Projects/C Projects/BarCode/main.c: At top level:/Users/JLH/Documents/Projects/C Projects/BarCode/main.c:25: warning: 'img' defined but not used4(22@61"Passing argument 1 of 'printf' from incompatible pointer type358875370#77#131#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c358875367#90#0#90#0#56"passing argument * of '*' from incompatible pointer type0(22@42"Implicit declaration of function 'GetCode'358875370#297#113#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c358875367#139#0#139#0#36"implicit declaration of function '*'0(23@13"At top level:358875370#410#71#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c358875367#0#0#0#0#0"0(22@26"'img' defined but not used358875370#481#96#0(6@55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c358875367#25#0#25#0#24"'*' defined but not used0(0#0#55"/Users/JLH/Documents/Projects/C Projects/BarCode/main.c3401403401131030528#1505"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/include" -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/zbar -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/DerivedSources/x86_64" "-I/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/BarCode/main.c" -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2" normal x86_64
+s358875370.572511
+e358875371.388619
+r1
+xLd
+x/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2358875370#358875371#0(0"0(0#0#0"8601229056#946"    cd "/Users/JLH/Documents/Projects/C Projects/BarCode"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" "-L/Users/JLH/Documents/Projects/C Projects/BarCode" -L/opt/local/lib "-F/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug" -filelist "/Users/JLH/Documents/Projects/C Projects/BarCode/build/BarCode.build/Debug/BarCode.build/Objects-normal/x86_64/ImProc2.LinkFileList" -mmacosx-version-min=10.6 -lopencv_core.2.3.1 -lopencv_highgui.2.3.1 -lopencv_imgproc.2.3.1 -lopencv_legacy.2.3.1 -lopencv_video.2.3.1 -lopenjpeg.1 -lopencv_calib3d.2.3.1 -lopencv_contrib.2.3.1 -lopencv_features2d.2.3.1 -lopencv_flann.2.3.1 -lopencv_gpu.2.3.1 -lopencv_ml.2.3.1 -lopencv_objdetect.2.3.1 -lopencv_ts.2.3.1 -lzbar.0 -lzbar -lzbar -o "/Users/JLH/Documents/Projects/C Projects/BarCode/build/Debug/ImProc2"0#
+

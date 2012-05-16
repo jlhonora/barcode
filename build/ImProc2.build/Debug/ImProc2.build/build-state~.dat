@@ -1,0 +1,98 @@
+TImProc2
+v7
+r0
+t288212595.683957
+cCheck dependencies
+cCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/ImProc2.LinkFileList
+c000000004B7D8EF30000000000000076
+t1266519795
+s118
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcv.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcvaux.2.0.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libcxcore.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/libhighgui.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c
+c000000004B7D8EF300000000000004A6
+t1266519795
+s1190
+i<stdio.h>
+i<OpenCV/cv.h>
+i<OpenCV/highgui.h>
+
+N/usr/local/lib/libcv.dylib
+c000000004B7D8919000000000036E558
+t1266518297
+s3597656
+
+N/usr/local/lib/libcvaux.dylib
+c000000004B7D89190000000000159E38
+t1266518297
+s1416760
+
+N/usr/local/lib/libcxcore.dylib
+c000000004B7D8918000000000034AE54
+t1266518296
+s3452500
+
+N/usr/local/lib/libhighgui.dylib
+c000000004B7D891900000000000F42E8
+t1266518297
+s1000168
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288212595#288212595#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s288212595.666492
+e288212595.683873
+r0
+xCompileC
+xbuild/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o
+x/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#288212595#0(2517"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:3:23: error: OpenCV/cv.h: No such file or directory/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:4:28: error: OpenCV/highgui.h: No such file or directory/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c: In function 'main':/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:20: error: 'CvCapture' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:20: error: (Each undeclared identifier is reported only once/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:20: error: for each function it appears in.)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:20: error: 'capture' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:20: warning: implicit declaration of function 'cvCaptureFromCAM'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:23: warning: implicit declaration of function 'cvGrabFrame'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:25: warning: implicit declaration of function 'exit'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:25: warning: incompatible implicit declaration of built-in function 'exit'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:28: error: 'IplImage' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:28: error: 'img' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:29: error: 'edges' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:30: error: 'grey' undeclared (first use in this function)/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:33: warning: implicit declaration of function 'cvRetrieveFrame'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:39: warning: implicit declaration of function 'cvNamedWindow'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:42: warning: implicit declaration of function 'cvShowImage'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:46: warning: implicit declaration of function 'cvWaitKey'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:49: warning: implicit declaration of function 'cvReleaseImage'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:50: warning: implicit declaration of function 'cvDestroyWindow'/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c:52: warning: implicit declaration of function 'cvReleaseCapture'19(4@38"OpenCV/cv.h: No such file or directory288212595#0#108#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#3#0#3#0#28"*: No such file or directory0(4@43"OpenCV/highgui.h: No such file or directory288212595#108#113#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#4#0#4#0#28"*: No such file or directory0(4@51"'CvCapture' undeclared (first use in this function)288212595#298#119#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#20#0#20#0#43"'*' undeclared (first use in this function)0(4@49"'capture' undeclared (first use in this function)288212595#635#117#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#20#0#20#0#43"'*' undeclared (first use in this function)0(22@51"Implicit declaration of function 'cvCaptureFromCAM'288212595#752#121#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#20#0#20#0#36"implicit declaration of function '*'0(22@46"Implicit declaration of function 'cvGrabFrame'288212595#873#116#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#23#0#23#0#36"implicit declaration of function '*'0(22@39"Implicit declaration of function 'exit'288212595#989#109#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#25#0#25#0#36"implicit declaration of function '*'0(22@61"Incompatible implicit declaration of built-in function 'exit'288212595#1098#131#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#25#0#25#0#0"0(4@50"'IplImage' undeclared (first use in this function)288212595#1229#118#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#28#0#28#0#43"'*' undeclared (first use in this function)0(4@45"'img' undeclared (first use in this function)288212595#1347#113#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#28#0#28#0#43"'*' undeclared (first use in this function)0(4@47"'edges' undeclared (first use in this function)288212595#1460#115#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#29#0#29#0#43"'*' undeclared (first use in this function)0(4@46"'grey' undeclared (first use in this function)288212595#1575#114#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#30#0#30#0#43"'*' undeclared (first use in this function)0(22@50"Implicit declaration of function 'cvRetrieveFrame'288212595#1689#120#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#33#0#33#0#36"implicit declaration of function '*'0(22@48"Implicit declaration of function 'cvNamedWindow'288212595#1809#118#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#39#0#39#0#36"implicit declaration of function '*'0(22@46"Implicit declaration of function 'cvShowImage'288212595#1927#116#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#42#0#42#0#36"implicit declaration of function '*'0(22@44"Implicit declaration of function 'cvWaitKey'288212595#2043#114#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#46#0#46#0#36"implicit declaration of function '*'0(22@49"Implicit declaration of function 'cvReleaseImage'288212595#2157#119#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#49#0#49#0#36"implicit declaration of function '*'0(22@50"Implicit declaration of function 'cvDestroyWindow'288212595#2276#120#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#50#0#50#0#36"implicit declaration of function '*'0(22@51"Implicit declaration of function 'cvReleaseCapture'288212595#2396#121#0(6@55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c288212595#52#0#52#0#36"implicit declaration of function '*'0(0#0#55"/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c4300885448#1430"    cd "/Users/JLH/Documents/Projects/C Projects/ImProc2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-generated-files.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-own-target-headers.hmap" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-all-target-headers.hmap" -iquote "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/ImProc2-project-headers.hmap" "-F/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/include" -I/usr/local/include/opencv "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources/x86_64" "-I/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/DerivedSources" -c "/Users/JLH/Documents/Projects/C Projects/ImProc2/main.c" -o "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/ImProc2.build/Debug/ImProc2.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/JLH/Documents/Projects/C Projects/ImProc2/build/Debug/ImProc2" normal x86_64
+r0
+
